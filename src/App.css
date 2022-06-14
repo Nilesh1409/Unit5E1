@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+ 
+}
+.formDiv{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+.form{
+  display:flex;
+  flex-direction: column;
+  /* border: 1px solid red; */
+  margin: 10px 30%;
 }
 
 .App-logo {

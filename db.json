@@ -1,0 +1,44 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "title": "Bloodworth",
+      "gender": "female",
+      "price": 3978,
+      "category": "saree",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 9,
+      "title": "Ivons",
+      "gender": "male",
+      "price": 1243,
+      "category": "trouser",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "title": "Lofer",
+      "gender": "",
+      "price": "1999",
+      "category": "Shooes",
+      "image": "https://picsum.photos/200",
+      "id": 10
+    },
+    {
+      "title": "Nilesh",
+      "gender": "",
+      "price": "",
+      "category": "",
+      "image": "",
+      "id": 11
+    },
+    {
+      "title": "Nilesh tiwari",
+      "gender": "",
+      "price": "",
+      "category": "",
+      "image": "",
+      "id": 12
+    }
+  ]
+}
